@@ -301,7 +301,7 @@
 <FileName id="ref-166">artillery\art_15_3.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-69" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-167">artillery\icon.png</FileName>
+<FileName id="ref-167">artillery\art_13_0.png</FileName>
 </a1:XBitmap>
 <a1:Strip id="ref-70" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
 <Name id="ref-168">move 0</Name>
