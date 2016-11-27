@@ -248,7 +248,7 @@
 <XBitmap href="#ref-12"/>
 </a1:BitmapPlacer>
 <a1:XBitmap id="ref-61" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-62">C:\Users\Mark\Documents\Consulting\Warfare Incoporated\Working WI Remix\Research WI09\final\icon.png</FileName>
+<FileName id="ref-62">research\research_a_0_0.png</FileName>
 </a1:XBitmap>
 </SOAP-ENV:Body>
 </SOAP-ENV:Envelope>
