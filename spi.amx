@@ -11968,7 +11968,7 @@
 <XBitmap href="#ref-621"/>
 </a1:BitmapPlacer>
 <a1:XBitmap id="ref-2773" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-2774">C:\Users\Mark\Documents\Consulting\Warfare Incoporated\Working WI Remix\Soldier WI09\SPI\Final\spi_idle_0_20.png</FileName>
+<FileName id="ref-2774">spi\spi_idle_0_20.png</FileName>
 </a1:XBitmap>
 </SOAP-ENV:Body>
 </SOAP-ENV:Envelope>
