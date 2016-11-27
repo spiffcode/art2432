@@ -13565,28 +13565,28 @@
 <XBitmap href="#ref-591"/>
 </a1:BitmapPlacer>
 <a1:XBitmap id="ref-3002" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-3010">sri1\sri_fire_1_0.png</FileName>
+<FileName id="ref-3010">sri\sri_fire_1_0.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-3003" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-3011">sri1\sri_fire_2_0.png</FileName>
+<FileName id="ref-3011">sri\sri_fire_2_0.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-3004" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-3012">sri1\sri_fire_6_0.png</FileName>
+<FileName id="ref-3012">sri\sri_fire_6_0.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-3005" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-3013">sri1\sri_fire_7_0.png</FileName>
+<FileName id="ref-3013">sri\sri_fire_7_0.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-3006" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-3014">C:\Users\Mark\Documents\Consulting\Warfare Incoporated\Working WI Remix\Soldier WI09\SRI\Working\sri black_blue\sri_idle_0_0.png</FileName>
+<FileName id="ref-3014">sri\sri_idle_0_0.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-3007" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-3015">C:\Users\Mark\Documents\Consulting\Warfare Incoporated\Working WI Remix\Soldier WI09\SRI\Working\sri black_blue\sri_idle_1_0.png</FileName>
+<FileName id="ref-3015">sri\sri_idle_1_0.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-3008" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-3016">C:\Users\Mark\Documents\Consulting\Warfare Incoporated\Working WI Remix\Soldier WI09\SRI\Working\sri black_blue\sri_idle_2_0.png</FileName>
+<FileName id="ref-3016">sri\sri_idle_2_0.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-3009" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-3017">C:\Users\Mark\Documents\Consulting\Warfare Incoporated\Working WI Remix\Soldier WI09\SRI\Working\sri black_blue\sri_idle_8_0.png</FileName>
+<FileName id="ref-3017">sri\sri_idle_8_0.png</FileName>
 </a1:XBitmap>
 </SOAP-ENV:Body>
 </SOAP-ENV:Envelope>
