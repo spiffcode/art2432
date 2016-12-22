@@ -2409,7 +2409,7 @@
 <FileName id="ref-1228">sri\icon.png</FileName>
 </a1:XBitmap>
 <a1:Strip id="ref-592" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1229">die 0</Name>
+<Name id="ref-1229">die 3</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>13</FrameCount>
 <_x0030_ href="#ref-1230"/>

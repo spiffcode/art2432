@@ -2608,7 +2608,7 @@
 <FileName id="ref-1327">lri\lri_die_11.png</FileName>
 </a1:XBitmap>
 <a1:Strip id="ref-642" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1328">die 0</Name>
+<Name id="ref-1328">die 3</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>12</FrameCount>
 <_x0030_ href="#ref-1329"/>
