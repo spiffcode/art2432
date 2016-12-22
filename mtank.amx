@@ -364,61 +364,61 @@
 <FileName id="ref-197">mtank\icon.png</FileName>
 </a1:XBitmap>
 <a1:Strip id="ref-85" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-198">base 0</Name>
+<Name id="ref-198">base 00</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>1</FrameCount>
 <_x0030_ href="#ref-199"/>
 </a1:Strip>
 <a1:Strip id="ref-86" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-200">base 1</Name>
+<Name id="ref-200">base 01</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>1</FrameCount>
 <_x0030_ href="#ref-201"/>
 </a1:Strip>
 <a1:Strip id="ref-87" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-202">base 2</Name>
+<Name id="ref-202">base 02</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>1</FrameCount>
 <_x0030_ href="#ref-203"/>
 </a1:Strip>
 <a1:Strip id="ref-88" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-204">base 3</Name>
+<Name id="ref-204">base 03</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>1</FrameCount>
 <_x0030_ href="#ref-205"/>
 </a1:Strip>
 <a1:Strip id="ref-89" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-206">base 4</Name>
+<Name id="ref-206">base 04</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>1</FrameCount>
 <_x0030_ href="#ref-207"/>
 </a1:Strip>
 <a1:Strip id="ref-90" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-208">base 5</Name>
+<Name id="ref-208">base 05</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>1</FrameCount>
 <_x0030_ href="#ref-209"/>
 </a1:Strip>
 <a1:Strip id="ref-91" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-210">base 6</Name>
+<Name id="ref-210">base 06</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>1</FrameCount>
 <_x0030_ href="#ref-211"/>
 </a1:Strip>
 <a1:Strip id="ref-92" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-212">base 7</Name>
+<Name id="ref-212">base 07</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>1</FrameCount>
 <_x0030_ href="#ref-213"/>
 </a1:Strip>
 <a1:Strip id="ref-93" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-214">base 8</Name>
+<Name id="ref-214">base 08</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>1</FrameCount>
 <_x0030_ href="#ref-215"/>
 </a1:Strip>
 <a1:Strip id="ref-94" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-216">base 9</Name>
+<Name id="ref-216">base 09</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>1</FrameCount>
 <_x0030_ href="#ref-217"/>

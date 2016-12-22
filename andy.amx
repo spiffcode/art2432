@@ -2613,7 +2613,7 @@
 <FileName id="ref-1330">andy\icon.png</FileName>
 </a1:XBitmap>
 <a1:Strip id="ref-643" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1331">move 0</Name>
+<Name id="ref-1331">move 00</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>8</FrameCount>
 <_x0030_ href="#ref-1332"/>
@@ -2626,7 +2626,7 @@
 <_x0037_ href="#ref-1339"/>
 </a1:Strip>
 <a1:Strip id="ref-644" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1340">move 1</Name>
+<Name id="ref-1340">move 01</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>8</FrameCount>
 <_x0030_ href="#ref-1341"/>
@@ -2639,7 +2639,7 @@
 <_x0037_ href="#ref-1348"/>
 </a1:Strip>
 <a1:Strip id="ref-645" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1349">move 2</Name>
+<Name id="ref-1349">move 02</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>8</FrameCount>
 <_x0030_ href="#ref-1350"/>
@@ -2652,7 +2652,7 @@
 <_x0037_ href="#ref-1357"/>
 </a1:Strip>
 <a1:Strip id="ref-646" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1358">move 3</Name>
+<Name id="ref-1358">move 03</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>8</FrameCount>
 <_x0030_ href="#ref-1359"/>
@@ -2665,7 +2665,7 @@
 <_x0037_ href="#ref-1366"/>
 </a1:Strip>
 <a1:Strip id="ref-647" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1367">move 4</Name>
+<Name id="ref-1367">move 04</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>8</FrameCount>
 <_x0030_ href="#ref-1368"/>
@@ -2678,7 +2678,7 @@
 <_x0037_ href="#ref-1375"/>
 </a1:Strip>
 <a1:Strip id="ref-648" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1376">move 5</Name>
+<Name id="ref-1376">move 05</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>8</FrameCount>
 <_x0030_ href="#ref-1377"/>
@@ -2691,7 +2691,7 @@
 <_x0037_ href="#ref-1384"/>
 </a1:Strip>
 <a1:Strip id="ref-649" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1385">move 6</Name>
+<Name id="ref-1385">move 06</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>8</FrameCount>
 <_x0030_ href="#ref-1386"/>
@@ -2704,7 +2704,7 @@
 <_x0037_ href="#ref-1393"/>
 </a1:Strip>
 <a1:Strip id="ref-650" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1394">move 7</Name>
+<Name id="ref-1394">move 07</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>8</FrameCount>
 <_x0030_ href="#ref-1395"/>
@@ -2717,7 +2717,7 @@
 <_x0037_ href="#ref-1402"/>
 </a1:Strip>
 <a1:Strip id="ref-651" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1403">move 8</Name>
+<Name id="ref-1403">move 08</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>8</FrameCount>
 <_x0030_ href="#ref-1404"/>
@@ -2730,7 +2730,7 @@
 <_x0037_ href="#ref-1411"/>
 </a1:Strip>
 <a1:Strip id="ref-652" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1412">move 9</Name>
+<Name id="ref-1412">move 09</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>8</FrameCount>
 <_x0030_ href="#ref-1413"/>
@@ -2821,7 +2821,7 @@
 <_x0037_ href="#ref-1474"/>
 </a1:Strip>
 <a1:Strip id="ref-659" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1475">fire 0</Name>
+<Name id="ref-1475">fire 00</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>10</FrameCount>
 <_x0030_ href="#ref-1476"/>
@@ -2836,7 +2836,7 @@
 <_x0039_ href="#ref-1485"/>
 </a1:Strip>
 <a1:Strip id="ref-660" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1486">fire 1</Name>
+<Name id="ref-1486">fire 01</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>10</FrameCount>
 <_x0030_ href="#ref-1487"/>
@@ -2851,7 +2851,7 @@
 <_x0039_ href="#ref-1496"/>
 </a1:Strip>
 <a1:Strip id="ref-661" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1497">fire 2</Name>
+<Name id="ref-1497">fire 02</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>10</FrameCount>
 <_x0030_ href="#ref-1498"/>
@@ -2866,7 +2866,7 @@
 <_x0039_ href="#ref-1507"/>
 </a1:Strip>
 <a1:Strip id="ref-662" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1508">fire 3</Name>
+<Name id="ref-1508">fire 03</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>10</FrameCount>
 <_x0030_ href="#ref-1509"/>
@@ -2881,7 +2881,7 @@
 <_x0039_ href="#ref-1518"/>
 </a1:Strip>
 <a1:Strip id="ref-663" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1519">fire 4</Name>
+<Name id="ref-1519">fire 04</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>10</FrameCount>
 <_x0030_ href="#ref-1520"/>
@@ -2896,7 +2896,7 @@
 <_x0039_ href="#ref-1529"/>
 </a1:Strip>
 <a1:Strip id="ref-664" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1530">fire 5</Name>
+<Name id="ref-1530">fire 05</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>10</FrameCount>
 <_x0030_ href="#ref-1531"/>
@@ -2911,7 +2911,7 @@
 <_x0039_ href="#ref-1540"/>
 </a1:Strip>
 <a1:Strip id="ref-665" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1541">fire 6</Name>
+<Name id="ref-1541">fire 06</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>10</FrameCount>
 <_x0030_ href="#ref-1542"/>
@@ -2926,7 +2926,7 @@
 <_x0039_ href="#ref-1551"/>
 </a1:Strip>
 <a1:Strip id="ref-666" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1552">fire 7</Name>
+<Name id="ref-1552">fire 07</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>10</FrameCount>
 <_x0030_ href="#ref-1553"/>
@@ -2941,7 +2941,7 @@
 <_x0039_ href="#ref-1562"/>
 </a1:Strip>
 <a1:Strip id="ref-667" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1563">fire 8</Name>
+<Name id="ref-1563">fire 08</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>10</FrameCount>
 <_x0030_ href="#ref-1564"/>
@@ -2956,7 +2956,7 @@
 <_x0039_ href="#ref-1573"/>
 </a1:Strip>
 <a1:Strip id="ref-668" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1574">fire 9</Name>
+<Name id="ref-1574">fire 09</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>10</FrameCount>
 <_x0030_ href="#ref-1575"/>
@@ -3061,7 +3061,7 @@
 <_x0039_ href="#ref-1650"/>
 </a1:Strip>
 <a1:Strip id="ref-675" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1651">idle 0</Name>
+<Name id="ref-1651">idle 00</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>21</FrameCount>
 <_x0030_ href="#ref-1652"/>
@@ -3087,7 +3087,7 @@
 <_x0032_0 href="#ref-1672"/>
 </a1:Strip>
 <a1:Strip id="ref-676" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1673">idle 1</Name>
+<Name id="ref-1673">idle 01</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>21</FrameCount>
 <_x0030_ href="#ref-1674"/>
@@ -3113,7 +3113,7 @@
 <_x0032_0 href="#ref-1694"/>
 </a1:Strip>
 <a1:Strip id="ref-677" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1695">idle 2</Name>
+<Name id="ref-1695">idle 02</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>21</FrameCount>
 <_x0030_ href="#ref-1696"/>
@@ -3139,7 +3139,7 @@
 <_x0032_0 href="#ref-1716"/>
 </a1:Strip>
 <a1:Strip id="ref-678" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1717">idle 3</Name>
+<Name id="ref-1717">idle 03</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>21</FrameCount>
 <_x0030_ href="#ref-1718"/>
@@ -3165,7 +3165,7 @@
 <_x0032_0 href="#ref-1738"/>
 </a1:Strip>
 <a1:Strip id="ref-679" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1739">idle 4</Name>
+<Name id="ref-1739">idle 04</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>21</FrameCount>
 <_x0030_ href="#ref-1740"/>
@@ -3191,7 +3191,7 @@
 <_x0032_0 href="#ref-1760"/>
 </a1:Strip>
 <a1:Strip id="ref-680" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1761">idle 5</Name>
+<Name id="ref-1761">idle 05</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>21</FrameCount>
 <_x0030_ href="#ref-1762"/>
@@ -3217,7 +3217,7 @@
 <_x0032_0 href="#ref-1782"/>
 </a1:Strip>
 <a1:Strip id="ref-681" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1783">idle 6</Name>
+<Name id="ref-1783">idle 06</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>21</FrameCount>
 <_x0030_ href="#ref-1784"/>
@@ -3243,7 +3243,7 @@
 <_x0032_0 href="#ref-1804"/>
 </a1:Strip>
 <a1:Strip id="ref-682" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1805">idle 7</Name>
+<Name id="ref-1805">idle 07</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>21</FrameCount>
 <_x0030_ href="#ref-1806"/>
@@ -3269,7 +3269,7 @@
 <_x0032_0 href="#ref-1826"/>
 </a1:Strip>
 <a1:Strip id="ref-683" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1827">idle 8</Name>
+<Name id="ref-1827">idle 08</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>21</FrameCount>
 <_x0030_ href="#ref-1828"/>
@@ -3295,7 +3295,7 @@
 <_x0032_0 href="#ref-1848"/>
 </a1:Strip>
 <a1:Strip id="ref-684" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Name id="ref-1849">idle 9</Name>
+<Name id="ref-1849">idle 09</Name>
 <DefHoldCount>0</DefHoldCount>
 <FrameCount>21</FrameCount>
 <_x0030_ href="#ref-1850"/>
