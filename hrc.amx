@@ -209,7 +209,7 @@
 <a1:BitmapPlacer id="ref-54" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
 <Point xsi:type="a2:Point" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing">
 <x>0</x>
-<y>7</y>
+<y>0</y>
 </Point>
 <XBitmap href="#ref-8"/>
 </a1:BitmapPlacer>
