@@ -1503,7 +1503,6 @@
 </a1:BitmapPlacerList>
 <a1:BitmapPlacerList id="ref-395" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
 <_x0030_ href="#ref-476"/>
-<_x0031_ href="#ref-477"/>
 </a1:BitmapPlacerList>
 <a1:BitmapPlacer id="ref-396" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
 <Point xsi:type="a2:Point" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing">
@@ -2067,15 +2066,8 @@
 </a1:BitmapPlacer>
 <a1:BitmapPlacer id="ref-476" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
 <Point xsi:type="a2:Point" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing">
-<x>30</x>
-<y>30</y>
-</Point>
-<XBitmap href="#ref-45"/>
-</a1:BitmapPlacer>
-<a1:BitmapPlacer id="ref-477" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<Point xsi:type="a2:Point" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/System.Drawing/System.Drawing">
-<x>24</x>
-<y>24</y>
+<x>0</x>
+<y>0</y>
 </Point>
 <XBitmap href="#ref-84"/>
 </a1:BitmapPlacer>
