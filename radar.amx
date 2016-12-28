@@ -35,64 +35,64 @@
 <_x0033_ href="#ref-28"/>
 </a1:StripSet>
 <a1:XBitmap id="ref-5" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-29">Radar\icon.png</FileName>
+<FileName id="ref-29">radar\icon.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-6" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-30">Radar\radar_a_0_0.png</FileName>
+<FileName id="ref-30">radar\radar_a_0_0.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-7" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-31">Radar\radar_a_0_1.png</FileName>
+<FileName id="ref-31">radar\radar_a_0_1.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-8" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-32">Radar\radar_a_0_2.png</FileName>
+<FileName id="ref-32">radar\radar_a_0_2.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-9" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-33">Radar\radar_a_0_3.png</FileName>
+<FileName id="ref-33">radar\radar_a_0_3.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-34">Radar\radar_a_0_4.png</FileName>
+<FileName id="ref-34">radar\radar_a_0_4.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-35">Radar\radar_a_0_5.png</FileName>
+<FileName id="ref-35">radar\radar_a_0_5.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-12" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-36">Radar\radar_a_0_6.png</FileName>
+<FileName id="ref-36">radar\radar_a_0_6.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-13" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-37">Radar\radar_a_0_7.png</FileName>
+<FileName id="ref-37">radar\radar_a_0_7.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-14" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-38">Radar\radar_a_0_8.png</FileName>
+<FileName id="ref-38">radar\radar_a_0_8.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-15" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-39">Radar\radar_a_1_0.png</FileName>
+<FileName id="ref-39">radar\radar_a_1_0.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-16" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-40">Radar\radar_a_1_1.png</FileName>
+<FileName id="ref-40">radar\radar_a_1_1.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-17" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-41">Radar\radar_a_1_2.png</FileName>
+<FileName id="ref-41">radar\radar_a_1_2.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-18" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-42">Radar\radar_a_1_3.png</FileName>
+<FileName id="ref-42">radar\radar_a_1_3.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-19" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-43">Radar\radar_a_1_4.png</FileName>
+<FileName id="ref-43">radar\radar_a_1_4.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-20" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-44">Radar\radar_a_1_5.png</FileName>
+<FileName id="ref-44">radar\radar_a_1_5.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-21" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-45">Radar\radar_a_1_6.png</FileName>
+<FileName id="ref-45">radar\radar_a_1_6.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-22" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-46">Radar\radar_a_1_7.png</FileName>
+<FileName id="ref-46">radar\radar_a_1_7.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-23" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-47">Radar\radar_a_1_8.png</FileName>
+<FileName id="ref-47">radar\radar_a_1_8.png</FileName>
 </a1:XBitmap>
 <a1:XBitmap id="ref-24" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
-<FileName id="ref-48">Radar\radar_a_2_0.png</FileName>
+<FileName id="ref-48">radar\radar_a_2_0.png</FileName>
 </a1:XBitmap>
 <a1:Strip id="ref-25" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/SpiffCode/AniMax">
 <Name id="ref-49">a 0</Name>
